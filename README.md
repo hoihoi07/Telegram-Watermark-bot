@@ -9,7 +9,7 @@
 Fill in all the details, Deploy!
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/F36/Telegram-Watermark-bot/tree/master)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hoihoi07/Telegram-Watermark-bot/tree/master)
 
 </details>
 
